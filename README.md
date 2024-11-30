@@ -1,4 +1,3 @@
-<a href="https://www.codefactor.io/repository/github/paradoxwastaken/virtual-machine"><img src="https://www.codefactor.io/repository/github/paradoxwastaken/virtual-machine/badge" alt="CodeFactor" /></a>
 # Virtual Machine
 
 Turing-complete 64-bit virtual machine developed in C++ and C#
